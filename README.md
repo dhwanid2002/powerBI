@@ -1,4 +1,3 @@
-# powerBI
 Here is a detailed description of both dashboards based on the screenshots you provided:
 
 1. Global Superstore Dashboard
