@@ -1,4 +1,4 @@
-Here is a detailed description of both dashboards based on the screenshots you provided:
+Here is a detailed description of both dashboards 
 
 ### **1. Global Superstore Dashboard**
 This dashboard provides an extensive analysis of sales, profit, and product performance across different categories, regions, and customer segments. It is structured with various visual elements, including maps, charts, and key performance indicators (KPIs). Key components include:
